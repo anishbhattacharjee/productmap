@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "flush": false,
+        "shower": false,
+        "vault": true,
+        "description": "Vault toilet",
+        "title": "Claude Lewis Sno-Park-USFS",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.1171875,
+          50.51342652633956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "flush": false,
+        "shower": false,
+        "vault": true,
+        "description": "Vault toilet",
+        "title": "Claude Lewis Sno-Park-USFS",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34374999999999,
+          28.92163128242129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "flush": false,
+        "shower": false,
+        "vault": true,
+        "description": "Vault toilet",
+        "title": "Claude Lewis Sno-Park-USFS",
+        "marker-size": "small"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21875,
+          16.97274101999902
+        ]
+      }
+    }
+  ]
+}

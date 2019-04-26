@@ -1,0 +1,256 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store1",
+        "title": "seller 1",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48060703277588,
+          12.919868640441132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store2",
+        "title": "seller 2",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49279499053955,
+          12.927690519862322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store3",
+        "title": "seller 3",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.485671043396,
+          12.93107853060219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store4",
+        "title": "seller 4",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48816013336182,
+          12.921625447528951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": true,
+        "fruits": false,
+        "dairy": false,
+        "description": "veg store1",
+        "title": "seller 5",
+        "marker-size": "small",
+        "product-name": "small form of broccoli called bimi",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48408317565918,
+          12.91593669408929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": true,
+        "fruits": false,
+        "dairy": false,
+        "description": "veg store2",
+        "title": "seller 6",
+        "marker-size": "small",
+        "product-name": "small form of broccoli called bimi",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.47786045074463,
+          12.917819016554214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": true,
+        "fruits": false,
+        "dairy": false,
+        "description": "veg store3",
+        "title": "seller 7",
+        "marker-size": "small",
+        "product-name": "small form of broccoli called bimi",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48386859893799,
+          12.927146760769377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": true,
+        "fruits": false,
+        "dairy": false,
+        "description": "veg store4",
+        "title": "seller 8",
+        "marker-size": "small",
+        "product-name": "small form of broccoli called bimi",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.49253749847412,
+          12.923842353121032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store1",
+        "title": "seller 9",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48644351959227,
+          12.923842353121032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store2",
+        "title": "seller 10",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48833179473877,
+          12.929405444626925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store3",
+        "title": "seller 11",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48240947723389,
+          12.923800524895805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store4",
+        "title": "seller 12",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48867511749268,
+          12.926435689399092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.48519897460938,
+          12.922922130547533
+        ]
+      }
+    }
+  ]
+}

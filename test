@@ -12,7 +12,7 @@
         "marker-size": "small",
         "text" : [
          {"itemText" : "sampletestabc"},
-          {"itemText2" : "sampletestabc2"}
+          {"itemText" : "sampletestabc2"}
          ]
          },
       "geometry": {

@@ -10,16 +10,12 @@
         "description": "fruits store1",
         "title": "seller 1",
         "marker-size": "small",
-        "text" : [
+        "text" : 
          {
-         "itemText" : "sampletestabc"
-         },
-          {
-         "itemText" : "sampletestefgh"
+         "itemText" : "sampletestabc",
+          "itemText2" : "sampletestabc2"
          }
-        ]
-      
-      },
+         },
       "geometry": {
         "type": "Point",
         "coordinates": [

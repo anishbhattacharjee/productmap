@@ -3,7 +3,23 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+      "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store1",
+        "title": "seller 1",
+        "marker-size": "small",
+        "text" : [
+         {
+         "itemText" : "sampletestabc"
+         },
+          {
+         "itemText" : "sampletestefgh"
+         },
+        ]
+      
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [

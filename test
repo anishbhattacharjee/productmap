@@ -11,10 +11,10 @@
         "title": "seller 1",
         "marker-size": "small",
         "text" : 
-         {
-         "itemText" : "sampletestabc",
-          "itemText2" : "sampletestabc2"
-         }
+         [
+         {"itemText" : "sampletestabc"},
+          {"itemText2" : "sampletestabc2"}
+         ]
          },
       "geometry": {
         "type": "Point",

@@ -30,8 +30,8 @@
         "description": "fruits store2",
         "title": "seller 2",
         "marker-size": "small",
-        "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+        "product-name": "freshly harvested apricots craft",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png"
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +70,8 @@
         "description": "fruits store4",
         "title": "seller 4",
         "marker-size": "small",
-        "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+        "product-name": "freshly harvested apricots craft",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png"
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +110,8 @@
         "description": "veg store2",
         "title": "seller 6",
         "marker-size": "small",
-        "product-name": "small form of broccoli called bimi",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+        "product-name": "Bunch Of Radishes In A Wooden Box",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png"
       },
       "geometry": {
         "type": "Point",
@@ -130,8 +130,8 @@
         "description": "veg store3",
         "title": "seller 7",
         "marker-size": "small",
-        "product-name": "small form of broccoli called bimi",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+        "product-name": "freshly harvested green peppers",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem3.png"
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +150,8 @@
         "description": "veg store4",
         "title": "seller 8",
         "marker-size": "small",
-        "product-name": "small form of broccoli called bimi",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+        "product-name": "beautiful eggplants in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png"
       },
       "geometry": {
         "type": "Point",

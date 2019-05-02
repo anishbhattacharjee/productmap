@@ -11,7 +11,8 @@
         "title": "seller 1",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "map-icon":"https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +32,8 @@
         "title": "seller 2",
         "marker-size": "small",
         "product-name": "freshly harvested apricots craft",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png",
+        "map-icon":"https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +93,8 @@
         "title": "seller 5",
         "marker-size": "small",
         "product-name": "small form of broccoli called bimi",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
+         "map-icon":"https://img.icons8.com/color/48/000000/lettuce.png"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +114,8 @@
         "title": "seller 6",
         "marker-size": "small",
         "product-name": "Bunch Of Radishes In A Wooden Box",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png",
+         "map-icon":"https://img.icons8.com/color/48/000000/lettuce.png"
       },
       "geometry": {
         "type": "Point",

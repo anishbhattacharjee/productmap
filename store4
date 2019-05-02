@@ -12,7 +12,7 @@
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
-        "map-icon":"https://img.icons8.com/dusk/64/000000/strawberry.png"
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
         "marker-size": "small",
         "product-name": "freshly harvested apricots craft",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png",
-        "map-icon":"https://img.icons8.com/dusk/64/000000/strawberry.png"
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +53,8 @@
         "title": "seller 3",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +74,8 @@
         "title": "seller 4",
         "marker-size": "small",
         "product-name": "freshly harvested apricots craft",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +96,7 @@
         "marker-size": "small",
         "product-name": "small form of broccoli called bimi",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
-         "map-icon":"https://img.icons8.com/color/48/000000/lettuce.png"
+         "map-icon": "https://img.icons8.com/color/48/000000/lettuce.png"
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +117,7 @@
         "marker-size": "small",
         "product-name": "Bunch Of Radishes In A Wooden Box",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png",
-         "map-icon":"https://img.icons8.com/color/48/000000/lettuce.png"
+         "map-icon": "https://img.icons8.com/color/48/000000/lettuce.png"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +137,8 @@
         "title": "seller 7",
         "marker-size": "small",
         "product-name": "freshly harvested green peppers",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem3.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem3.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -155,7 +158,8 @@
         "title": "seller 8",
         "marker-size": "small",
         "product-name": "beautiful eggplants in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -175,7 +179,8 @@
         "title": "seller 9",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +200,8 @@
         "title": "seller 10",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +221,8 @@
         "title": "seller 11",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",
@@ -235,7 +242,8 @@
         "title": "seller 12",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png"
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem2.png",
+        "map-icon": "https://img.icons8.com/dusk/64/000000/strawberry.png"
       },
       "geometry": {
         "type": "Point",

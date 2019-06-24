@@ -96,7 +96,7 @@
         "marker-size": "small",
         "product-name": "small form of broccoli called bimi",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
-         "map-icon": "https://cdn1.iconfinder.com/data/icons/vegetables-57/200/Cabbage_Vegetables_food-16.png"
+         "map-icon": "https://cdn0.iconfinder.com/data/icons/the-foodstuff/64/foodstuff_vegetables-a-32.png"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
         "marker-size": "small",
         "product-name": "Bunch Of Radishes In A Wooden Box",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png",
-         "map-icon": "https://cdn0.iconfinder.com/data/icons/vegetables-50/256/Food_Flat_-98-16.png"
+         "map-icon": "https://cdn2.iconfinder.com/data/icons/fruits-and-vegetables-22/512/Fruit_and_Vegetables-20-32.png"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +138,7 @@
         "marker-size": "small",
         "product-name": "freshly harvested green peppers",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem3.png",
-        "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/vegetables-32.png"
+        "map-icon": "https://cdn0.iconfinder.com/data/icons/vegetables-45/512/Vegetables_broccoli_food_green-32.png"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
         "marker-size": "small",
         "product-name": "beautiful eggplants in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
-        "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/vegetables-32.png"
+        "map-icon": "https://cdn3.iconfinder.com/data/icons/agriculture-glyph/160/carrots-32.png"
       },
       "geometry": {
         "type": "Point",

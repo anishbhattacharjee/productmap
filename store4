@@ -96,7 +96,7 @@
         "marker-size": "small",
         "product-name": "small form of broccoli called bimi",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
-         "map-icon": "https://cdn1.iconfinder.com/data/icons/vegetables-57/200/Cabbage_Vegetables_food-32.png"
+         "map-icon": "https://cdn1.iconfinder.com/data/icons/vegetables-57/200/Cabbage_Vegetables_food-16.png"
       },
       "geometry": {
         "type": "Point",
@@ -180,7 +180,7 @@
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
         "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
-        "map-icon": "https://cdn4.iconfinder.com/data/icons/product-categories-filled-color/300/135938264Untitled-3-32.png"
+        "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
         "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
-        "map-icon": "https://cdn4.iconfinder.com/data/icons/product-categories-filled-color/300/135938264Untitled-3-32.png"
+        "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
         "type": "Point",

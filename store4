@@ -232,6 +232,28 @@
         ]
       }
     },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store11 test",
+        "title": "seller 21",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.55534946918488,
+          13.02343111861325
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {

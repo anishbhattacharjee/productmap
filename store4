@@ -252,6 +252,90 @@
           12.926435689399092
         ]
       }
-    }
+    },
+       {
+      "type": "Feature",
+      "properties": {
+        "veg": false,
+        "fruits": false,
+        "dairy": true,
+        "description": "dairy store21",
+        "title": "seller 21",
+        "marker-size": "small",
+        "product-name": "mixed freshly harvested mushrooms",
+        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.54046320915222,
+          13.028255070599522
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "veg": true,
+        "fruits": false,
+        "dairy": false,
+        "description": "veg store22",
+        "title": "seller 22",
+        "marker-size": "small",
+        "product-name": "beautiful eggplants in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
+        "map-icon": "https://cdn0.iconfinder.com/data/icons/the-foodstuff/64/foodstuff_vegetables-a-32.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53510951995848,
+          13.027805605586696
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+     "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store23",
+        "title": "seller 23",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.54034519195557,
+          13.025391023764339
+        ]
+      }
+    },
+      {
+      "type": "Feature",
+     "properties": {
+        "veg": false,
+        "fruits": true,
+        "dairy": false,
+        "description": "fruits store24",
+        "title": "seller 24",
+        "marker-size": "small",
+        "product-name": "beautiful pineapples in big crates",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5390899181366,
+          13.030512835995598
+        ]
+      }
+    },
   ]
 }

@@ -9,6 +9,7 @@
         "dairy": false,
         "description": "fruits store1",
         "title": "seller 1",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
@@ -30,6 +31,7 @@
         "dairy": false,
         "description": "fruits store2",
         "title": "seller 2",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "freshly harvested apricots craft",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png",
@@ -51,9 +53,10 @@
         "dairy": false,
         "description": "fruits store3",
         "title": "seller 3",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "product-img": "https://a8g4i9g5y.ssl.hwcdn.net/files/styles/food_image/public/sgdg1p/im/21/20/799346-learning-fruits.jpg",
         "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
       },
       "geometry": {
@@ -72,9 +75,10 @@
         "dairy": false,
         "description": "fruits store4",
         "title": "seller 4",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "freshly harvested apricots craft",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem9.png",
+        "product-img": "https://a8g4i9g5y.ssl.hwcdn.net/files/styles/food_image/public/image/e5/95/560148-quotes-on-citrus-fruits.jpg",
         "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
       },
       "geometry": {
@@ -93,6 +97,7 @@
         "dairy": false,
         "description": "veg store1",
         "title": "seller 5",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "small form of broccoli called bimi",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
@@ -114,6 +119,7 @@
         "dairy": false,
         "description": "veg store2",
         "title": "seller 6",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "Bunch Of Radishes In A Wooden Box",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem1.png",
@@ -135,6 +141,7 @@
         "dairy": false,
         "description": "veg store3",
         "title": "seller 7",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "freshly harvested green peppers",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem3.png",
@@ -156,6 +163,7 @@
         "dairy": false,
         "description": "veg store4",
         "title": "seller 8",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "beautiful eggplants in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
@@ -177,6 +185,7 @@
         "dairy": true,
         "description": "dairy store1",
         "title": "seller 9",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
         "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
@@ -198,9 +207,10 @@
         "dairy": true,
         "description": "dairy store2",
         "title": "seller 10",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "product-img": "https://spydersden.files.wordpress.com/2011/04/cheese_oh_cheese.jpg?w=584",
         "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
@@ -219,9 +229,10 @@
         "dairy": true,
         "description": "dairy store3",
         "title": "seller 11",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "product-img": "https://i.pinimg.com/originals/75/39/b9/7539b9d434397e4cbaed6e69e46d4433.jpg",
         "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
@@ -240,9 +251,10 @@
         "dairy": true,
         "description": "dairy store4",
         "title": "seller 12",
+        "zone" : "kengeri",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushroom",
-        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "product-img": "https://image.shutterstock.com/image-photo/parmesan-cheese-cubes-on-white-260nw-417740950.jpg",
         "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
@@ -261,9 +273,10 @@
         "dairy": true,
         "description": "dairy store21",
         "title": "seller 21",
+        "zone" : "yeswanthpur",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "product-img": "https://img3.exportersindia.com/product_images/bc-small/dir_189/5645769/soya-paneer-1524852117-3810629.jpeg",
         "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
@@ -282,6 +295,7 @@
         "dairy": false,
         "description": "veg store22",
         "title": "seller 22",
+        "zone" : "yeswanthpur",
         "marker-size": "small",
         "product-name": "beautiful eggplants in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
@@ -303,9 +317,10 @@
         "dairy": false,
         "description": "fruits store23",
         "title": "seller 23",
+        "zone" : "yeswanthpur",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "product-img": "https://a8g4i9g5y.ssl.hwcdn.net/files/styles/food_image/public/image/e5/95/560148-quotes-on-citrus-fruits.jpg",
         "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
       },
       "geometry": {
@@ -324,6 +339,7 @@
         "dairy": false,
         "description": "fruits store24",
         "title": "seller 24",
+        "zone" : "yeswanthpur",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
@@ -345,9 +361,10 @@
         "dairy": true,
         "description": "dairy store31",
         "title": "seller 31",
+        "zone" : "majestic",
         "marker-size": "small",
         "product-name": "mixed freshly harvested mushrooms",
-        "product-img": "https://www.foodsafety.gov/blog/sites/default/files/Raw-Milk_300x200.jpg",
+        "product-img": "https://www.britishfinefoods.com/sites/default/files/product-images/cheese-duddleswell.jpg",
         "map-icon": "https://cdn4.iconfinder.com/data/icons/animals-and-birds-1-2/512/44-32.png"
       },
       "geometry": {
@@ -366,9 +383,10 @@
         "dairy": false,
         "description": "veg store32",
         "title": "seller 32",
+        "zone" : "majestic",
         "marker-size": "small",
         "product-name": "beautiful eggplants in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem8.png",
+        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem4.png",
         "map-icon": "https://cdn0.iconfinder.com/data/icons/the-foodstuff/64/foodstuff_vegetables-a-32.png"
       },
       "geometry": {
@@ -387,6 +405,7 @@
         "dairy": false,
         "description": "fruits store33",
         "title": "seller 33",
+        "zone" : "majestic",
         "marker-size": "small",
         "product-name": "beautiful pineapples in big crates",
         "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
@@ -408,9 +427,10 @@
         "dairy": false,
         "description": "fruits store34",
         "title": "seller 34",
+        "zone" : "majestic",
         "marker-size": "small",
         "product-name": "beautiful pineapples  in big crates",
-        "product-img": "http://farmfresh.html.themeplayers.net/assets/images/demo-content/galleryitem5.png",
+        "product-img": "https://a8g4i9g5y.ssl.hwcdn.net/files/styles/food_image/public/image/e5/95/560148-quotes-on-citrus-fruits.jpg",
         "map-icon": "https://cdn3.iconfinder.com/data/icons/food-pyramid-nutrition/512/fruits-32.png"
       },
       "geometry": {
